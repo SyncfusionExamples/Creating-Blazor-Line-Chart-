@@ -1,2 +1,14 @@
-# Creating-Blazor-Line-Chart
-Creating line chart in Blazor
+# Blazor Line Chart
+
+This sample explains about how to create a line chart in Blazor Charts component.
+
+## Prerequisites
+
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
