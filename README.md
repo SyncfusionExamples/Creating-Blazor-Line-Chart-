@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to create a line chart using the Syncfusion Blazor Chart component. The application renders chart data using a line-series visualization and provides a basic implementation that can be used as a starting point for building analytical dashboards, reporting pages, and data visualization experiences in Blazor applications.
+This sample demonstrates how to create a line chart using the Syncfusion [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component. The application renders chart data using a line-series visualization and provides a basic implementation that can be used as a starting point for building analytical dashboards, reporting pages, and data visualization experiences in Blazor applications.
 
 The project is structured as a standard Blazor application and includes dedicated folders for pages, data models, shared components, and static resources. The sample focuses specifically on creating and displaying a Line Chart using the Syncfusion Blazor Chart library.
 
