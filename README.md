@@ -44,10 +44,6 @@ dotnet run
 
 4. Open the local application URL displayed in the terminal after application startup.
 
-## Project Structure
-
-- `Pages/` — contains the Blazor page that renders the Syncfusion Line Chart sample.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
